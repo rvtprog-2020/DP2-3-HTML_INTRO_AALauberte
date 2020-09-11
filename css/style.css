@@ -1,0 +1,14 @@
+    <style>
+        p{
+            color: green;
+        }
+    .article {
+        color: yellow;
+    }
+    #first{
+        color: firebrick ;
+    }
+    </style>
+    .container{
+        background-color: orange;
+    }
